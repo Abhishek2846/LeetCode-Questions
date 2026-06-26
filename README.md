@@ -1,1 +1,16 @@
 # LeetCode-Questions
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+<!---LeetCode Topics End-->
