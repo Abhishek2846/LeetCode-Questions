@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
@@ -27,6 +28,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sliding Window
 |  |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
