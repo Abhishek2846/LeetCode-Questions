@@ -9,6 +9,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
