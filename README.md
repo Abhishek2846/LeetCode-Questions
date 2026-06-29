@@ -11,6 +11,7 @@
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
 |  |
 | ------- |
