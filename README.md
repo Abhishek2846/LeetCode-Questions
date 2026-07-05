@@ -14,6 +14,7 @@
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
 | [1470-shuffle-the-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -56,6 +57,7 @@
 | [0520-detect-capital](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
