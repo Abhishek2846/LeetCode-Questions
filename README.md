@@ -70,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
