@@ -67,6 +67,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
@@ -83,6 +84,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
 ## Graph Theory
 |  |
