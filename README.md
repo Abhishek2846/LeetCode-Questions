@@ -77,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
@@ -107,6 +108,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0319-bulb-switcher) |
 ## Two Pointers
 |  |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
