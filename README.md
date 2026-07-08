@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0338-counting-bits) |
