@@ -10,6 +10,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -50,6 +51,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
@@ -108,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
@@ -130,6 +133,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Merge Sort
 |  |
 | ------- |
