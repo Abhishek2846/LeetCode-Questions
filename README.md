@@ -21,6 +21,7 @@
 | [1470-shuffle-the-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
+| [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
@@ -106,12 +108,14 @@
 ## Matrix
 |  |
 | ------- |
+| [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
+| [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 ## Brainteaser
 |  |
 | ------- |
