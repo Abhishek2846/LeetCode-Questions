@@ -8,6 +8,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -99,6 +100,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
