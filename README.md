@@ -32,6 +32,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Divide and Conquer
 |  |
 | ------- |
