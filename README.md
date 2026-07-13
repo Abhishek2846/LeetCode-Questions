@@ -18,6 +18,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
+| [1089-duplicate-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1089-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -150,6 +151,7 @@
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [1089-duplicate-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1089-duplicate-zeros) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Divide and Conquer
 |  |
