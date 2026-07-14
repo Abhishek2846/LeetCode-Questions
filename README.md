@@ -21,6 +21,7 @@
 | [1089-duplicate-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1089-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## String
 |  |
