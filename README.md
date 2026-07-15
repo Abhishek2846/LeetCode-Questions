@@ -122,6 +122,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
