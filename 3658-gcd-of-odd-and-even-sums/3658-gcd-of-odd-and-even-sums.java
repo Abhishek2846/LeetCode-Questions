@@ -10,6 +10,14 @@ class Solution {
         // }
         // return gcd;
 
+
+        // gcd of the sum of the first n even and the first n odd number is always n because        
+        // sumOdd = n * (1 + 2n-1) / 2 = n^2
+        // sumEven = n* (2+2n)/2 = n(n+1)
+        // we need gcd(sumOdd, sumEven) = gcd(n^2 , n(n+1))
+        // which is n*gcd(n,n+1)
+        // as two consecutive numbers are always co-prime, so gcd(n,n+1) = 1
+        // so gcd(n^2 , n(n+1)) = n
         return n;
     }
 }
