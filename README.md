@@ -63,6 +63,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2785-sort-vowels-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2785-sort-vowels-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
