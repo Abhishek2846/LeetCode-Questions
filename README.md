@@ -157,6 +157,7 @@
 | [0141-linked-list-cycle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 ## Brainteaser
 |  |
