@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
@@ -142,6 +143,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
 ## Graph Theory
