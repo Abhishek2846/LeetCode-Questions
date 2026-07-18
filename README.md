@@ -8,6 +8,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0137-single-number-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
@@ -143,6 +144,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
