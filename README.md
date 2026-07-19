@@ -18,6 +18,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
@@ -76,6 +77,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
