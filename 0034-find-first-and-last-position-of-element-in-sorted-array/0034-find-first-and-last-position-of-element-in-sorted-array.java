@@ -1,5 +1,21 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
+
+        //TC O(n)
+        // int first = -1, last = -1;
+        // for (int i = 0; i < nums.length; i++) {
+        //     if (nums[i] == target) {
+        //         if (first == -1) {
+        //             first = i;
+        //         }
+        //         last = i;
+        //     }
+        // }
+        // int[] res = {first,last};
+        // return res;
+
+
+        // TC O(nlogn)
         int[] ans = {-1, -1};
         int left = binarySearch(nums, target, true);
         int right = binarySearch(nums, target, false);
