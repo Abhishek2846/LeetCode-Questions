@@ -181,6 +181,7 @@
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
 |  |
 | ------- |
@@ -249,4 +251,12 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
