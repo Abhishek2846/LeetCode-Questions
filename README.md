@@ -253,6 +253,7 @@
 ## Database
 |  |
 | ------- |
+| [0627-swap-sex-of-employees](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0627-swap-sex-of-employees) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Recursion
 |  |
