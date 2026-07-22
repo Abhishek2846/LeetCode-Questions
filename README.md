@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0075-sort-colors](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
@@ -63,6 +64,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -202,6 +204,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0086-partition-list) |
