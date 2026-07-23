@@ -99,6 +99,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2745-construct-the-longest-new-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2745-construct-the-longest-new-string) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sliding Window
@@ -135,6 +136,7 @@
 | [0338-counting-bits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1025-divisor-game) |
+| [2745-construct-the-longest-new-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2745-construct-the-longest-new-string) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
+| [2745-construct-the-longest-new-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2745-construct-the-longest-new-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -206,6 +209,7 @@
 | [0319-bulb-switcher](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
+| [2745-construct-the-longest-new-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2745-construct-the-longest-new-string) |
 ## Two Pointers
 |  |
 | ------- |
