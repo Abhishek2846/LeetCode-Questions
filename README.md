@@ -28,6 +28,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
+| [0860-lemonade-change](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1089-duplicate-zeros) |
@@ -110,6 +111,7 @@
 | [0179-largest-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2745-construct-the-longest-new-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2745-construct-the-longest-new-string) |
