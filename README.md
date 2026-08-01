@@ -172,6 +172,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1492-the-kth-factor-of-n](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
