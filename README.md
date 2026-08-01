@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0046-permutations](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0118-pascals-triangle) |
@@ -335,4 +336,8 @@
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
