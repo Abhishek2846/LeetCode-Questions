@@ -186,6 +186,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
 | [2745-construct-the-longest-new-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2745-construct-the-longest-new-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -237,6 +238,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
