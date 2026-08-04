@@ -50,6 +50,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3895-count-digit-appearances) |
@@ -70,6 +71,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3731-find-missing-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3945-digit-frequency-score) |
 ## Sorting
@@ -94,6 +96,7 @@
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
