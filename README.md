@@ -31,6 +31,7 @@
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0860-lemonade-change) |
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
@@ -68,6 +69,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -366,4 +368,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
