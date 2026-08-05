@@ -63,6 +63,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0520-detect-capital) |
@@ -304,6 +306,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -359,4 +362,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0046-permutations) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
