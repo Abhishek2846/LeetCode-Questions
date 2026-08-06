@@ -192,6 +192,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -373,4 +374,8 @@
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
