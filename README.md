@@ -48,6 +48,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -217,6 +218,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
