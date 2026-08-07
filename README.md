@@ -164,6 +164,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
+| [3110-score-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Dynamic Programming
