@@ -165,6 +165,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3110-score-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3110-score-of-a-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
@@ -231,6 +232,7 @@
 | [0338-counting-bits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Graph Theory
 |  |
 | ------- |
@@ -383,6 +385,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0046-permutations) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
 | ------- |
