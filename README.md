@@ -167,6 +167,7 @@
 | [3110-score-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [1768-merge-strings-alternately](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Divide and Conquer
