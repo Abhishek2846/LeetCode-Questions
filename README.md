@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
