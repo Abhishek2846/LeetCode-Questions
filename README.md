@@ -77,6 +77,7 @@
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -163,6 +164,7 @@
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0925-long-pressed-name](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0925-long-pressed-name) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0984-string-without-aaa-or-bbb) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
