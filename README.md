@@ -284,6 +284,7 @@
 | [0086-partition-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -308,6 +309,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -367,6 +369,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Number Theory
@@ -406,6 +409,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
