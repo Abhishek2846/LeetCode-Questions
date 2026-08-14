@@ -92,6 +92,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3731-find-missing-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3731-find-missing-elements) |
@@ -160,6 +161,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3206-alternating-groups-i) |
 ## String
 |  |
@@ -190,6 +192,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2942-find-words-containing-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3110-score-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
