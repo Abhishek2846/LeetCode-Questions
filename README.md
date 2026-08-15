@@ -263,6 +263,7 @@
 | [1260-shift-2d-grid](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -303,6 +304,7 @@
 | [0147-insertion-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
