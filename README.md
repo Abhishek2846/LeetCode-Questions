@@ -15,6 +15,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0179-largest-number) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -540,4 +542,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2029-stone-game-ix) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
