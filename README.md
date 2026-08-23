@@ -168,6 +168,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1927-sum-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -211,6 +212,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1927-sum-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -255,6 +257,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1492-the-kth-factor-of-n](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1492-the-kth-factor-of-n) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -393,6 +396,7 @@
 | [0292-nim-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 ## Heap (Priority Queue)
 |  |
