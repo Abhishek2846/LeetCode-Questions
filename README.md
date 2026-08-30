@@ -56,6 +56,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -172,6 +173,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2745-construct-the-longest-new-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2745-construct-the-longest-new-string) |
