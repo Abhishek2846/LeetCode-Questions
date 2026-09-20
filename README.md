@@ -230,6 +230,7 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3794-reverse-string-prefix) |
@@ -306,6 +307,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
