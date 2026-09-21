@@ -44,6 +44,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1037-valid-boomerang](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1037-valid-boomerang) |
 | [1089-duplicate-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -262,6 +263,7 @@
 | [0836-rectangle-overlap](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [0908-smallest-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1037-valid-boomerang) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1492-the-kth-factor-of-n](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1492-the-kth-factor-of-n) |
@@ -591,6 +593,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
+| [1037-valid-boomerang](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1037-valid-boomerang) |
 ## Binary Search Tree
 |  |
 | ------- |
