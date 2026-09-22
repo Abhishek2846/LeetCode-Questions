@@ -471,6 +471,7 @@
 | [0610-triangle-judgement](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1068-product-sales-analysis-i) |
