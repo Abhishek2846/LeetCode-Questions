@@ -212,6 +212,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0925-long-pressed-name](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0925-long-pressed-name) |
@@ -606,4 +607,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
