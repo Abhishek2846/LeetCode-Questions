@@ -220,6 +220,7 @@
 | [0821-shortest-distance-to-a-character](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0821-shortest-distance-to-a-character) |
 | [0925-long-pressed-name](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0925-long-pressed-name) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0984-string-without-aaa-or-bbb) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -459,6 +460,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -598,6 +600,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Minimax
