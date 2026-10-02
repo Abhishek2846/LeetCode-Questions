@@ -199,6 +199,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0049-group-anagrams) |
@@ -458,6 +459,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -599,6 +601,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
