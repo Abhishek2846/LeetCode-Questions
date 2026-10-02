@@ -51,6 +51,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
@@ -109,6 +110,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -453,6 +455,7 @@
 | [0692-top-k-frequent-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
