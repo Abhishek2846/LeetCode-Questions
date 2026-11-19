@@ -68,6 +68,7 @@
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -155,6 +156,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -194,6 +196,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2745-construct-the-longest-new-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2745-construct-the-longest-new-string) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
