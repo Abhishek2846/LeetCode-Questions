@@ -30,6 +30,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,6 +110,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0771-jewels-and-stones](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0771-jewels-and-stones) |
