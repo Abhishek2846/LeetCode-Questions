@@ -57,6 +57,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
@@ -502,6 +503,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -573,6 +575,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Probability and Statistics
 |  |
