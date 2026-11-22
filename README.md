@@ -38,6 +38,7 @@
 | [0645-set-mismatch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0804-unique-morse-code-words) |
@@ -498,6 +499,7 @@
 | [0503-next-greater-element-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1021-remove-outermost-parentheses) |
@@ -575,6 +577,7 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Probability and Statistics
