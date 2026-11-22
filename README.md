@@ -256,6 +256,7 @@
 | [1927-sum-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
