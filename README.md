@@ -62,6 +62,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -346,6 +347,7 @@
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -510,6 +512,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -597,6 +600,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
