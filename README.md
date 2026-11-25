@@ -50,6 +50,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1037-valid-boomerang](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1089-duplicate-zeros) |
 | [1260-shift-2d-grid](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
@@ -484,6 +485,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
+| [1046-last-stone-weight](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
