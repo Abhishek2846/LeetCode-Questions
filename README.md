@@ -240,6 +240,7 @@
 | [0409-longest-palindrome](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0520-detect-capital) |
@@ -710,6 +711,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0796-rotate-string) |
 ## Binary Indexed Tree
 |  |
@@ -732,4 +734,12 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0374-guess-number-higher-or-lower) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
