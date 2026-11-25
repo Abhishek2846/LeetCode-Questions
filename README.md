@@ -237,6 +237,7 @@
 | [0409-longest-palindrome](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -302,6 +303,7 @@
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0504-base-7](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0633-sum-of-square-numbers) |
