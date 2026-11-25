@@ -503,6 +503,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0636-exclusive-time-of-functions](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -601,6 +602,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -710,6 +712,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
