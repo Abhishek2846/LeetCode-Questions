@@ -240,6 +240,7 @@
 | [0409-longest-palindrome](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0415-add-strings) |
+| [0482-license-key-formatting](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0541-reverse-string-ii) |
