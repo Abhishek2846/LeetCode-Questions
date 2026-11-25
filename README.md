@@ -28,6 +28,7 @@
 | [0260-single-number-iii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [0322-coin-change](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -483,6 +484,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [1046-last-stone-weight](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1046-last-stone-weight) |
