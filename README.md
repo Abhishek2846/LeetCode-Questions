@@ -67,6 +67,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2029-stone-game-ix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -350,6 +351,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -601,6 +603,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Pigeonhole Principle
 |  |
 | ------- |
