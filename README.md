@@ -337,6 +337,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -368,6 +369,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3360-stone-removal-game](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3925-concatenate-array-with-reverse) |
