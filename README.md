@@ -76,6 +76,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -329,6 +330,7 @@
 | [2029-stone-game-ix](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2195-append-k-integers-with-minimal-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2413-smallest-even-multiple) |
@@ -365,6 +367,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -541,6 +544,7 @@
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -752,4 +756,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0459-repeated-substring-pattern) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
