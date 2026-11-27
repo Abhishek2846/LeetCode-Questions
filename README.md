@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0118-pascals-triangle) |
@@ -376,6 +377,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0338-counting-bits) |
@@ -615,6 +617,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Abhishek2846/LeetCode-Questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
